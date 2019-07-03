@@ -4,6 +4,11 @@
     <string name="instagram">Instagram</string>
     <string name="password">Password</string>
     <string name="sucess">sucessfully loged in</string>
+    <string name="username">Username</string>
+    <string name="log_in">Log In</string>
+    <string name="please_choose_your_option_all_the_best">Please Choose Your Option! All The Best! :)</string>
+    <string name="score">Score:</string>
+    <string name="game_over">Game Over</string>
 
     <string-array name="languages">
         <item>English(US)</item>
